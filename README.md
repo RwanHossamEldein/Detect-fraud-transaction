@@ -39,6 +39,7 @@ The following models were implemented and evaluated:
 -  XGBoost
 -  LightGBM
 -  Ensemble Learning Model
+-  Logistic Regression
 
 ### 3️⃣ Evaluation Metrics
 
